@@ -6,7 +6,6 @@
 + [枚举](枚举.md)
 + [序列化](序列化.md)
 + [函数式编程](函数式编程.md)
-+ [Class](Class.md)
 + [反射](反射.md)
   + [Class类](Class类.md)
   + [访问字段](访问字段.md)
@@ -24,3 +23,4 @@
   * [ThreadLocal](ThreadLocal.md)
 
 + [Date](Date.md)
++ JVM
