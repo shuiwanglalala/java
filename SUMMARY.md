@@ -27,9 +27,4 @@
 
 + [json](json.md)
 * [Java泛型](Java泛型.md)
-
-* 多线程
-  
-  * [Thread](Thread.md)
-  * [ThreadLocal](ThreadLocal.md)
 + [Date](Date.md)
